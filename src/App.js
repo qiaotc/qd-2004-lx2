@@ -9,6 +9,14 @@ class App extends Component {
       <Todolist />
       <Todolist />
       <Todolist />
+      <Todolist />
+      <Todolist />
+      <Todolist />
+      <Todolist />
+      <Todolist />
+      <Todolist />
+      <Todolist />
+      <Todolist />
     
       </div>
     );
