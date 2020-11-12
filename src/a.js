@@ -6,3 +6,12 @@ export  const number = 121121
   export{number2}
   export{number2}
   export{number2}
+  export{number2}
+  export{number2}
+  export{number2}
+  export{number2}
+  export{number2}
+  export{number2}
+  export{number2}
+  export{number2}
+  export{number2}
